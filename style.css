@@ -28,7 +28,6 @@ body {
     height: 100vh;
     background: url("images/bg.png") no-repeat;
     background-size: cover;
-    position: relative;
     background-position: center;
 }
 
@@ -88,9 +87,7 @@ nav img {
 .footer {
     background-color: white;
     text-align: center;
-    position: absolute;
     width: 100%;
     padding: 3rem;
-    bottom: 0;
 }
 
